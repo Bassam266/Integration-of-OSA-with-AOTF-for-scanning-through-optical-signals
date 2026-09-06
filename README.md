@@ -26,7 +26,7 @@ The following code automates this process, using a fine AOTF filtering step size
 ## Results
 
 <p align="center">
-  <img src="spectra_withAOTF_filtering.gif" width="60%" /><br>
+  <img src="spectra_withAOFT filtering.gif" width="60%" /><br>
   <em>Figure 1 — Reflectivity spectrum with AOTF filtering.</em>
 </p>
 
